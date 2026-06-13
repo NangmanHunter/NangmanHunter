@@ -1,4 +1,4 @@
-## Answer
+## Answers
 
 <!--
 **NangmanHunter/NangmanHunter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,3 +19,9 @@ Here are some ideas to get you started:
 - Making`Answer`
 - Made`Answer`
 - No`Answer`
+
+
+
+
+## ☕Supports
+- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X7X81XEE6L)
